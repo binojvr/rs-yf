@@ -1,2 +1,1 @@
-# rs-yf
- RSI strategy usinG yahoo finance
+# RSI strategy Using Yahoo finance
